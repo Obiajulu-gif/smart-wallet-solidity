@@ -12,7 +12,7 @@ The `SendWithdrawMoney` contract lets users deposit Ether into the contract and 
 ## Contract Details
 
 ### Solidity Version
-- Compatible with Solidity ^0.8.30.
+- Compatible with Solidity ^0.8.0.
 
 ### License
 - GPL-3.0
